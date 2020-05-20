@@ -33,7 +33,7 @@ const (
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>404 �Ҳ�����ҳ��/(��o��)/~~</title>
+<title>404 找不到此页面/(ㄒoㄒ)/~~</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
@@ -44,15 +44,15 @@ const (
     <div class="notfoud-container">
         <div class="img-404">
         </div>
-        <p class="notfound-p">��ѽ��·��...</p>
+        <p class="notfound-p">哎呀迷路了...</p>
         <div class="notfound-reason">
-            <p>���ܵ�ԭ��</p>
+            <p>可能的原因：</p>
             <ul>
-                <li>��վ��ȥ�����</li>
-                <li>��������ȷ</li>
-                <li>�����˲����ڸ�ҳ��</li>
-                <li>���ǵķ������������˽ٳ���</li>
-		<li>�Ͻ�֪ͨPomelogoo#gmail.com</li>
+                <li>网站出去溜达了</li>
+                <li>域名不正确</li>
+                <li>内网端不存在该页面</li>
+                <li>我们的服务器被外星人劫持了</li>
+		<li>赶紧通知Pomelogoo#gmail.com</li>
             </ul>
         </div>
         
